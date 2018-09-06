@@ -1,0 +1,1 @@
+Bu dosya tkinter eklentisi için basit koodlar içerir
